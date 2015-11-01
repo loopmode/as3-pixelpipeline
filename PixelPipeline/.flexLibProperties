@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<flexLibProperties includeAllClasses="true" useMultiPlatformConfig="false" version="3">
+  <includeClasses>
+    <classEntry path="de.loopmode.pixelpipeline.effects.ColorEffect"/>
+    <classEntry path="de.loopmode.pixelpipeline.core.PipelineEffect"/>
+    <classEntry path="de.loopmode.pixelpipeline.core.Pipeline"/>
+    <classEntry path="de.loopmode.pixelpipeline.effects.BlurEffect"/>
+  </includeClasses>
+  <includeResources/>
+  <namespaceManifests/>
+</flexLibProperties>
